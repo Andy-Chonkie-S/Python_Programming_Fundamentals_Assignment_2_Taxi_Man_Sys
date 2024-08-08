@@ -21,7 +21,7 @@ It implements a basic taxi booking system with functionalities such as:
 **Download the full assignment spec:** [COSC2531_Assignment2_Sem22023.pdf](COSC2531_Assignment2_Sem22023.pdf)
 
 ## Dependencies
-* Python (version 3.6)
+* Python (version 3.6+)
 
 ## Code Structure
 
